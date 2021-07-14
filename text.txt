@@ -1,0 +1,1360 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="google" content="notranslate">
+<meta property="og:site_name" content="禁漫天堂">
+<meta property="og:title" content="PHOTOS - Search Results For &#039;未亡人の雪女&#039; - 禁漫天堂">
+<meta property="og:url" content="https://18comic.org/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">
+<meta property="og:type" content="album">
+<meta property="og:image" content="https://18comic.org/media/logo/new_logo.png">
+<meta property="og:description" content="免費成人H漫線上看">
+<title>PHOTOS - Search Results For &#039;未亡人の雪女&#039; - 禁漫天堂</title>
+<meta name="theme-color" content="#FFFFFF">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="1 days" />
+<meta name="keywords" content="成人,免費A漫,H漫,同人誌,成人H漫,成人漫畫,生肉漫畫,漫畫線上看,中文A漫,H圖,H本,本本,禁漫漢化組,漢化" />
+<meta name="description" content="免費成人H漫線上看" />
+<meta name="juicyads-site-verification" content="9dc45d0c989efd2d562bc0bfa0ae960b">
+<meta name="exoclick-site-verification" content="02a42f90b0f54accd3b5a8b44e3c2c54">
+<meta name="trafficjunky-site-verification" content="vtt10qy00" />
+<meta name="ero_verify" content="c55bde9f8536c9020bbbdee53a9ceee9" />
+<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/favicon.ico" /> <link rel="canonical" href="https://18comic.org/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" />
+<script type="text/javascript">
+        var base_url = "https://18comic.org";
+        var max_thumb_folders = "32000";
+        var tpl_url = "/templates/frontend/airav";
+                        var lang_deleting = "刪除...";
+        var lang_flaging = " 標記中 ...";
+        var lang_loading = "加載...";
+        var lang_sending = "發送...";
+        var lang_share_name_empty = "請輸入您的名字！ ";
+        var lang_share_rec_empty = "請至少輸入一個收件人的電子EMAIL！ ";
+        var fb_signin = "0";
+        var fb_appid = "";
+        var g_signin = "0";
+        var g_cid = "";
+        var signup_section = false;
+        var relative = "";
+        
+        if (base_url === "" && atob) {
+            location.href = atob("aHR0cHM6Ly8xOGNvbWljLm9yZw==") + "/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3";
+        }
+        
+    </script>
+<script src="/templates/frontend/airav/js/jquery.min.js"></script>
+<script src="/templates/frontend/airav/js/jquery.cookie.min.js"></script>
+<script src="/templates/frontend/airav/js/td_js/td_ga_tracker.js?v=510"></script>
+<script type="text/javascript" src="/templates/frontend/airav/js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="/templates/frontend/airav/js/jquery.voting-album-0.1.js?v=20210617"></script>
+<script src="/templates/frontend/airav/js/style_phone.js?v=20210617"></script>
+<script src="/templates/frontend/airav/js/header.js?v=20210617"></script>
+<script type="text/javascript" src="/templates/frontend/airav/js/jquery.avs-0.4.js?v=20210617"></script>
+<script type="text/javascript" src="/templates/frontend/airav/js/jquery.avs-0.2.js?v=2021061722"></script>
+<script type="text/javascript" src="/templates/frontend/airav/js/toastr.min.js"></script>
+<script type="text/javascript" src="/templates/frontend/airav/owlcarousel/owl.carousel.js?v=20210617"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VW05C6PGN3"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', 'G-VW05C6PGN3');
+        </script>
+<script type="text/javascript">
+        (function ($) {
+            
+            var ga_res_nums = ["UA-144553158-6", "UA-144553158-7"];
+            var dimension1 = "Guest";
+            var dimension2 = "繁體";
+            td_ga_tracker.init(ga_res_nums );
+            
+            var ga_track_nums = td_ga_tracker.count();
+            var ga_args = {
+                'hitCallback': function () {
+                    if (--ga_track_nums === 0) {
+
+                    }
+                }
+            };
+            td_ga_tracker.doga('require', 'linkid', 'linkid.js');
+            td_ga_tracker.doga('require', 'displayfeatures');
+            td_ga_tracker.doga('require', 'ec');
+            td_ga_tracker.doga('set', 'dimension1', dimension1);
+            td_ga_tracker.doga('set', 'dimension2', dimension2);
+            td_ga_tracker.doga('send', 'pageview', ga_args);
+
+            if ($.cookie('cover') != '1') {//聯播網錯誤
+                window.addEventListener('error', function (e) {
+                    if (e.target.nodeName === 'SCRIPT') {
+                        td_ga_tracker.doga(
+                            'send',
+                            'exception',
+                            {
+                                'exDescription': e.target.src,
+                                'exFatal': true
+                            }
+                        );
+                    }
+                }, true);
+            }
+            
+            })(jQuery);
+    </script>
+<link href="/templates/frontend/airav/css/bootstrap.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/owlcarousel/assets/owl.carousel.min.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet">
+<link href="/templates/frontend/airav/css/style.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/responsive.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/all.min.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/fontawesome.min.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/colors.css?v=1220210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/style_phone.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/2021header.css?v=20210617" rel="stylesheet">
+<link href="/templates/frontend/airav/css/toastr.min.css" rel="stylesheet">
+<style>
+        .ede39-d_a {
+            text-align: center;
+            vertical-align: middle;
+            padding: 9px !important;
+            overflow: hidden;
+        }
+
+        .ede39-d_a img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        @media screen and (max-width: 767px) {
+            .well.ede39-d_a img {
+                margin: 0px auto !important;
+            }
+        }
+
+        @media screen and (min-width: 768px) {
+            .well.ede39-d_a {
+                max-height: 250px !important;
+            }
+        }
+
+        .search-board {
+            width: 350px;
+            max-width: 100%;
+            margin: 30px auto;
+            padding: 0 15px;
+        }
+
+        .top-menu-m {
+            display: inline-block;
+            width: 20%;
+        }
+
+
+        #guide-modal .modal-body img {
+
+            max-width: 100%;
+            height: auto !important;
+        }
+
+        #guide-modal .modal-body {
+            max-width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        @media screen and (max-width: 768px) {
+
+            #guide-modal .modal-body {
+
+                max-height: 480px;
+
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+<input type="hidden" id="nb_path" value="ede39-d_a" />
+<div id="search-board" class="modal fade in">
+<div class="modal-dialog search-board">
+<div class="modal-content text-center">
+<div class="modal-header">
+<div class="modal-title ">
+搜尋的最佳姿勢？
+</div>
+</div>
+<div class="modal-body">
+<div>
+<img style="max-width: 265px;" src="/templates/frontend/airav/img/phicon/search-board.png?v=20210617">
+</div>
+<div class="m-t-5">【Biubiubiu第一課】<br>搜尋全彩[空格]人妻，會顯示所有包含全彩及人妻的本本<br><br>
+【Biubiubiu第二課】<br>搜尋全彩[空格][+]人妻，僅顯示全彩且是人妻的本本<br><br>
+【Biubiubiu第三課】<br>搜尋全彩時加上[空格][-]人妻，僅顯示全彩且隱藏人妻的本本<br></div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary" data-dismiss="modal" style="display: block;margin: auto;">我都學會了！
+</button>
+</div>
+</div>
+</div>
+</div>
+<div id="billboard-modal" class="modal fade in" data-backdrop="static">
+<div class="modal-dialog billboard-modal">
+<div class="modal-content text-center">
+<div class="modal-header">
+<div class="modal-title ">
+</div>
+</div>
+<div class="modal-body">
+<ul class="pop-list">
+<li class="pop-list-item_img">
+<a href="https://cm365.club/dPbTCK" target="_blank" rel="nofollow noopener">
+<img src="/static/resources/images/games/350x70-V2.png">
+</a>
+</li>
+<li class="pop-list-item_img">
+<a href="http://xratt15.thejierou.net/" target="_blank" rel="nofollow noopener">
+<img src="/static/resources/images/35070/XProject_15_350_70_Trevor_v15.jpg">
+</a>
+</li>
+</ul>
+</div>
+<div class="modal-footer">
+<div class="m-b-10 center" style="color: red;display: none; font-weight:bold;">
+使用ADBLOCK将会使网站部份功能(下载、换页等)可能无法正常使用请自行注意!!
+</div>
+<button id="chk_cover" type="button" class="btn btn-primary" data-dismiss="modal" style="display: block;margin: auto;">我保證我已满18歲！ 確定進入！
+</button>
+</div>
+</div>
+</div>
+</div>
+<div id="guide-modal" class="modal fade in" data-backdrop="static">
+<div class="modal-dialog ">
+<div class="modal-content text-center">
+<div class="modal-body">
+<p dir="ltr"><a href="http://xratt15.thejierou.net" target="_blank"><img alt="天荷幸運輪盤 活動現正舉辦中！" src="/static/resources/images/XProject_15_850_250_Trevor_18.gif" style="height:250px; width:850px" /></a></p>
+<h1 dir="ltr"><span style="font-size:26px"><a href="https://mafiaatt15.thejierou.net" target="_blank"><span style="color:#ffffff"><span style="background-color:#0066ff">【逆王傳說🔞】</span></span></a><a href="http://xratt15.thejierou.net"><span style="color:#000000">立刻遊玩</span></a>👈</span></h1>
+<p dir="ltr"><span style="font-size:16px">雲之國 - 母系社會, 九成人口為女性 ,而男性在社會上只當作低下的繁殖工具...... 化身為成為逆王對抗雲之國，表面上是為了爭取男女平等，實際上是為了玩遍全世界的各種女人！ 貓族、鬼族、蛇族，忍者、陰陽師、將軍，甚至聖女和女神都可以想幹就幹！只有想不到的，沒有姦不到的！</span><br />
+<br />
+<br />
+<a href="http://mafiaatt15.thejierou.net"><img alt="" src="/static/resources/images/%E9%80%B2%E7%AB%99%E8%93%8B%E6%9D%BF/850-250%E9%BB%91%E9%81%93.gif" style="height:250px; width:850px" /></a><br />
+<br />
+<span style="font-size:26px"><a href="https://mafiaatt15.thejierou.net" target="_blank"><span style="color:#ffffff"><span style="background-color:#0066ff">【黑道總裁🔞】</span></span></a><a href="http://mafiaatt15.thejierou.net"><span style="color:#ff0000">立刻遊玩</span></a>👈</span></p>
+<p dir="ltr"><span style="font-size:16px">金錢和權力，女人和香車 在這個混沌的世界，用您的大屌劈開一片新天地 想找個日本小妹妹當私人秘書? 還是要江南美女, 金髮巨乳的? 她們都在等著您把她們帶回去通通為所欲為吧!</span><br />
+<br />
+<span style="color:#0033cc"><span style="font-size:16px"><strong><span style="background-color:#ffa500">《禁漫官方社群》</span></strong></span></span><br />
+DISCORD<br />
+<a href="https://discord.gg/V74p7HM" target="_blank">https://discord.gg/V74p7HM</a><br />
+<br />
+FB<br />
+<a href="https://www.facebook.com/senshimanga/" target="_blank">https://www.facebook.com/senshimanga/</a><br />
+<br />
+推特<br />
+<a href="https://www.facebook.com/senshimanga/" target="_blank">https://twitter.com/18comic2<br />
+<br />
+<span style="color:#000000">發布頁</span></a><br />
+<a href="https://jmcomic.one/" target="_blank">https://jmcomic.one/</a></p> </div>
+<div class="modal-footer">
+<div class="m-b-10 center" style="color: red;display: none; font-weight:bold;">
+</div>
+<button id="chk_guide" type="button" class="btn btn-primary" data-dismiss="modal" style="display: block;margin: auto;">確定進入！
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade in" id="login-modal">
+<div class="modal-dialog login-modal">
+<div class="modal-content">
+<form name="login_form" method="post" action="/login">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title">會員登錄</h4>
+</div>
+<div class="modal-body">
+<center>
+<div class="m-b-5"></div>
+</center>
+<div class="form-group">
+<label for="login_username" class="control-label">用戶名:</label>
+<input name="username" type="text" value="" id="login_username" class="form-control" />
+</div>
+<div class="form-group">
+<label for="login_password" class="control-label">密碼:</label>
+<input name="password" type="password" value="" id="login_password" class="form-control" />
+</div>
+<div class="form-group">
+<div class="checkbox">
+<label>
+<input name="id_remember" type="checkbox" id="id_remember" /> 在這台裝置記住我的帳號密碼
+</label>
+</div>
+<div class="checkbox">
+<label>
+<input name="login_remember" type="checkbox" id="login_remember" /> 登陸180天，期限內將自動登入會員
+</label>
+</div>
+</div>
+<a href="/lost" id="lost_password">忘記用戶名或密碼？ </a><br />
+<a href="/confirm" id="confirmation_email">沒有收到確認EMAIL？ </a>
+</div>
+<div class="modal-footer">
+<button name="submit_login" id="login_submit" type="submit" class="btn btn-primary">登錄</button>
+<a href="/signup" class="btn btn-secondary">註冊</a>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal fade in" id="language-modal">
+<div class="modal-dialog language-modal">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title">選擇語言</h4>
+</div>
+<div class="modal-body">
+<div class="row">
+<div class="col-xs-6 col-sm-4">
+<span class="change-language language-active">中文繁體</span>
+</div>
+<div class="col-xs-6 col-sm-4">
+<a href="#" id="cn_CS" class="change-language">中文简体</a>
+</div>
+</div>
+<form name="languageSelect" id="languageSelect" method="post" action="">
+<input name="language" id="language" type="hidden" value="" />
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade in" id="shunt-modal">
+<div class="modal-dialog shunt-modal">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title">切換分流，加速你的網站體驗</h4>
+</div>
+<div class="modal-body">
+<div class="row">
+<div class="col-xs-6 col-sm-4">
+<a href="?shunt=1" class="change-shunt ">分流一</a>
+</div>
+<div class="col-xs-6 col-sm-4">
+<a href="?shunt=2" class="change-shunt ">分流二</a>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary" data-dismiss="modal" style=" display: block;margin: auto;">我覺得現在很快了
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade in" id="headelikes_modal">
+<div class="modal-dialog headelikes_modal">
+<div class="modal-content" style="background-color: #202020">
+<div class="modal-header" style="border-bottom: none;">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="color: #ffffff;">
+&times;
+</button>
+<h4 class="modal-title" style="color: #ffffff">友站连结</h4>
+<div class="modal-body" style="padding: 10px;">
+<a data-label="menu-top-link" href="https://www.awflapp.xyz/" target="_blank" rel="nofollow noopener" style="color: #ec79ac">暗网福利</a>
+</div>
+<div class="modal-body" style="padding: 10px;">
+<a data-label="menu-top-link" href="https://dahu8.xyz/N9mdg9" target="_blank" rel="nofollow noopener" style="color: #ec79ac">萌翻導航</a>
+</div>
+<div class="modal-body" style="padding: 10px;">
+<a data-label="menu-top-link" href="https://duckvan.weebly.com/" target="_blank" rel="nofollow noopener" style="color: #ec79ac">廂型車</a>
+</div>
+<div class="modal-body" style="padding: 10px;">
+<a data-label="menu-top-link" href="https://theporndude.com/zh" target="_blank" rel="nofollow noopener" style="color: #ec79ac">成人Dude</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="black-back"></div>
+
+<div class="top-nav">
+<div class="container">
+<ul class="top-menu">
+<div class="center visible-xs visible-sm">
+<li class="top-menu-m">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://boylove.buzz/?utm_source=link&utm_medium=18comic&utm_campaign=18comic">香香腐宅</a>
+</li>
+<li class="top-menu-m">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://69.run/KEFzbr">番號鴿</a>
+</li>
+<li class="top-menu-m">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://69.run/IMVreV">免費</a>
+</li>
+<li class="top-menu-m">
+<a data-toggle="modal" href="#headelikes_modal" style="color: #fff;">友站</a></li>
+</div>
+<div class="pull-left">
+<li class="dropdown hidden-xs hidden-sm">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color: #fff;">
+熱門排行
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li class="top-menu-link "><a href="https://18comic.org/albums?o=mv">熱門</a>
+</li>
+<li class="top-menu-link "><a href="https://18comic.org/albums?t=m&o=mv">本月熱門</a></li>
+<li class="top-menu-link "><a href="https://18comic.org/albums?o=mv&t=w">本周熱門</a></li>
+</ul>
+</li>
+<li class="top-menu-link top-air-link hidden-xs hidden-sm"><a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://boylove.buzz/?utm_source=link&utm_medium=18comic&utm_campaign=18comic">香香腐宅</a>
+</li>
+<li class="top-menu-link top-air-link hidden-xs hidden-sm"><a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://69.run/IMVreV">AIRAV免費A片</a>
+</li>
+<li class="top-menu-link top-air-link hidden-xs hidden-sm"><a data-label="menu-top-link" target="_blank" rel="nofollow noopener" href="https://69.run/KEFzbr">番號鴿</a>
+</li>
+<li class="top-menu-link hidden-xs hidden-sm">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" style="color: #ec79ac" href="https://www.awflapp.xyz/">暗网福利</a>
+</li>
+<li class="top-menu-link hidden-xs hidden-sm">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" style="color: #ec79ac" href="https://dahu8.xyz/N9mdg9">萌翻導航</a>
+</li>
+<li class="top-menu-link hidden-xs hidden-sm">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" style="color: #ec79ac" href="https://duckvan.weebly.com/">廂型車</a>
+</li>
+<li class="top-menu-link hidden-xs hidden-sm">
+<a data-label="menu-top-link" target="_blank" rel="nofollow noopener" style="color: #ec79ac" href="https://theporndude.com/zh">成人Dude</a>
+</li>
+</div>
+<div class="pull-right hidden-xs hidden-sm">
+<li><a data-toggle="modal" href="#language-modal">繁體 <span class="caret"></span></a></li>
+</div>
+<div class="pull-right hidden-xs hidden-sm">
+<li><a data-toggle="modal" href="#shunt-modal">分流<span class="caret"></span></a></li>
+</div>
+<div class="pull-right hidden-xs hidden-sm" style="margin-left: 10px">
+<a href="https://69.run/FznYFa" target="_blank" rel="nofollow noopener">打賞JM</a>
+</div>
+<div class="pull-right hidden-xs hidden-sm" style="margin-left: 10px">
+<a href="/cdn-cgi/l/email-protection#bccbcbcb8d84dfd3d1d5dffcdbd1ddd5d092dfd3d1">廣告洽詢</a>
+</div>
+<div class="pull-right hidden-xs hidden-sm" style="margin-left: 10px">
+<a href="/upload/photo">上傳漫畫</a>
+</div>
+<div class="pull-right hidden-xs hidden-sm">
+<a href="https://69.run/nQfuDb" target="_blank" rel="nofollow noopener">JM公告</a>
+</div>
+</ul>
+</div>
+</div>
+<div id="Comic_Top_Nav" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button id="mob-header-menu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-inverse-collapse">
+<div class="hamburger" id="hamburger-11">
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"></span>
+</div>
+</button>
+<a class="navbar-brand" href="/"><img src="https://18comic.org/media/logo/new_logo.png?v=20210617"></a>
+<div class="head-right">
+<a class="visible-xs visible-sm" data-toggle="modal" href="/18comic-app.apk" style="position: unset;margin: 15px 15px 0 0px;float: right; color: #888;">
+<i class="fab fa-android fa-lg"></i>
+<div style="width: 5px;height: 5px; margin-top: -5px;background: #FF7A00;border-radius: 50%;position: absolute;display: inline-block;"></div>
+</a>
+<a class="visible-xs visible-sm" data-toggle="modal" href="#shunt-modal" style="position: unset;margin: 15px 15px 0 0px;float: right; color: #888;"><i class="fas fa-bolt fa-lg"></i></a>
+<a style="float: right; margin: 10px 15px 0 0px;" class="visible-xs visible-sm" href="/blogs"><img src="/templates/frontend/airav/img/phicon/u1030.png?v=20210617" width="30">
+</a>
+<div class="dropdown visible-xs visible-sm" style="position: unset;margin: 15px 15px 0 0px;float: right; ">
+<a style="color: #888;" href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search fa-lg"></i></a>
+<ul class="dropdown-menu search-dropdown-menu" style="margin: 0; background-color: #323232; overflow-y: scroll; border-radius: 0;">
+<form class="form-inline" name="search" id="search_form_m" method="get" action="/search/photos">
+<div class="select-type-title">
+<p style="float: left">搜索類型</p>
+<div class="input-group" style="clear: both;">
+<input type="text" class="form-control" placeholder="可以搜車號囉 ! " name="search_query" id="search_query" autocomplete="off" value="未亡人の雪女">
+<span class="input-group-btn">
+<button type="submit" class="btn btn-primary" style="font-size: 14px"><i class="fa fa-search" aria-hidden="true"></i>
+</button>
+</span>
+</div>
+<div class="m-t-5">
+<i class="far fa-question-circle" aria-hidden="true"></i>
+<span data-toggle="modal" data-target="#search-board" style="color: #ababab;">搜尋的最佳姿勢？</span>
+</div>
+<div class="m-t-20">
+<span class="d-block p-b-5">搜尋類型</span>
+<div class="search-type">
+<input type="radio" id="adult" name="search-type" value="photos" checked>
+ <label for="adult" class="m-r-10">成人A漫</label>
+<input type="radio" id="hcomic" name="search-type" value="videos">
+<label for="hcomic" class="m-r-10">H動漫</label>
+<input type="radio" id="movies" name="search-type" value="movies">
+<label for="movies" class="m-r-10">小電影</label>
+<input type="radio" id="blogs" name="search-type" value="blogs">
+<label for="blogs" class="m-r-10">紳夜食堂</label>
+</div>
+</div>
+<div class="m-t-10 m-b-10">
+<span class="d-block p-b-5">搜尋分類</span>
+<div class="search-type">
+<input type="radio" id="name" value="0" name="main_tag" checked>
+<label for="name" class="m-r-10">站內搜尋</label>
+<input type="radio" id="works" value="1" name="main_tag">
+<label for="works" class="m-r-10">作品</label>
+<input type="radio" id="author" value="2" name="main_tag">
+<label for="author" class="m-r-10">作者</label>
+<input type="radio" id="tag" value="3" name="main_tag">
+<label for="tag" class="m-r-10">標籤</label>
+<input type="radio" id="people" value="4" name="main_tag">
+<label for="people" class="m-r-10">登場人物</label>
+</div>
+</div>
+<li class="visible-xs visible-sm p-t-20">熱門關鍵字</li>
+<div class="tag-hot tag-block">
+<a href="/search/photos?search_query=連載中" class="btn btn-sm tag-block" title="連載中">連載中</a>
+<a href="/search/photos?search_query=女性支配" class="btn btn-sm tag-block" title="女性支配">女性支配</a>
+<a href="/search/photos?search_query=禁漫書庫" class="btn btn-sm tag-block" title="禁漫書庫">禁漫書庫</a>
+<a href="/search/photos?search_query=歹戲拖棚" class="btn btn-sm tag-block" title="歹戲拖棚">歹戲拖棚</a>
+<a href="/search/photos?search_query=清凉" class="btn btn-sm tag-block" title="清凉">清凉</a>
+<a href="/search/photos?search_query=Fare可爱汪" class="btn btn-sm tag-block" title="Fare可爱汪">Fare可爱汪</a>
+<a href="/search/photos?search_query=進來了…！在丈夫眼前" class="btn btn-sm tag-block" title="進來了…！在丈夫眼前">進來了…！在丈夫眼前</a>
+<a href="/search/photos?search_query=歐-巴-來洗澡" class="btn btn-sm tag-block" title="歐-巴-來洗澡">歐-巴-來洗澡</a>
+<a href="/search/photos?search_query=公孙离" class="btn btn-sm tag-block" title="公孙离">公孙离</a>
+</div>
+</div>
+</form>
+</ul>
+</div>
+</div>
+</div>
+<div class="navbar-collapse collapse navbar-inverse-collapse ps-re flex1" style="max-height: calc(100vh - 90px);overflow-y: scroll;">
+<div class="d-lg-flex align-items-center">
+<ul class="nav navbar-nav navbar-left">
+
+
+
+<li class="visible-xs visible-sm copy-block">
+<a href="https://cm365.club/7MJX9t" style="color: #ffffff" target="_blank" rel="nofollow noopener"><span style="color: #ff7a00;">收藏永久網域</span></a>
+<span id="copy" class="copy-text">https://cm365.club/7MJX9t</span>
+<span onclick="copyEvent('copy')" class="copy-btn m-l-10"><i class="far fa-clone" aria-hidden="true"></i></span>
+</li>
+<li class="visible-xs visible-sm navbar-nav-icon">
+<a href="/blogs"><i class="fas fa-book-open" aria-hidden="true"></i><span>紳夜食堂</span></a>
+<a href="/18comic-app.apk" rel="nofollow"><i class="fab fa-android text-orange" aria-hidden="true"></i>APP下載</a>
+<a href="/album/199649"><i class="fas fa-shapes" aria-hidden="true"></i><span>一抽入魂</span></a>
+<a href="https://69.run/FznYFa" rel="nofollow noopener" target="_blank"><i class="fas fa-coins" aria-hidden="true"></i><span>打賞禁漫</span></a>
+<a href="https://www.facebook.com/senshimanga/" target="_blank" rel="nofollow noopener"><i class="fab fa-facebook-square" aria-hidden="true"></i><span>Facebook</span></a>
+<a href="https://discord.gg/V74p7HM" rel="nofollow noopener" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i><span>Discord</span></a>
+<a href="https://pt.im/hcomic18" rel="nofollow noopener" target="_blank"><i class="fas fa-rocket" aria-hidden="true"></i><span>Potato</span></a>
+<a href="https://t.me/hcomic18" rel="nofollow noopener" target="_blank"><i class="fab fa-telegram-plane" aria-hidden="true"></i><span>Telegram</span></a>
+</li>
+<div class="line-white visible-xs"></div>
+<li class="visible-xs visible-sm" style="font-size: 14px;padding: 10px 15px;clear: both;margin-top:20px;">
+成人A漫
+</li>
+<div class="adult-class-main text-none visible-xs visible-sm">
+<div class="visible-xs visible-sm">
+<a href="/albums?o=mr">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="far fa-star" aria-hidden="true"></i><span>最新A漫</span>
+</li>
+</a>
+<a href="/albums?o=mv" title="總排行">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="far fa-heart" aria-hidden="true"></i><span>熱門排行</span>
+</li>
+</a>
+<a href="/albums/hanman" title="韓漫">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="far fa-gem" aria-hidden="true"></i><span>韓漫</span>
+</li>
+</a>
+<a href="/albums/meiman" title="美漫">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="fas fa-flag-usa" aria-hidden="true"></i><span>美漫</span>
+</li>
+</a>
+</div>
+</div>
+<li class="visible-xs visible-sm" style="font-size: 14px;padding: 10px 15px;clear: both;">
+更多內容
+</li>
+<div class="adult-class-main visible-xs visible-sm">
+<div class="visible-xs visible-sm">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="fas fa-globe-asia" aria-hidden="true"></i>
+<span data-toggle="modal" href="https://18comic.org/#language-modal">繁體
+<i class="fas fa-chevron-right m-l-10 float-right" aria-hidden="true"></i>
+</span>
+<a href="#">
+</a></li>
+<li style="font-size: 14px;padding: 10px 32px;clear: both;"><a href="/cdn-cgi/l/email-protection#cfb8b8b8fef7aca0a2a6ac8fa8a2aea6a3e1aca0a2">
+<i class="fas fa-sign" aria-hidden="true"></i><span>廣告洽詢</span>
+</a></li>
+<a href="#">
+</a><a href="/static/faq-cn-CT">
+<li style="font-size: 14px;padding: 10px 32px;clear: both;">
+<i class="far fa-question-circle" aria-hidden="true"></i><span>社群規範</span>
+</li>
+</a>
+</div>
+</div>
+<li class="hidden-xs hidden-sm header-btn" id="adulta">
+<a class="dropdown-toggle" data-toggle="dropdown">
+<span class="hidden-xs hidden-sm">成人A漫<span class="caret"></span></span>
+</a>
+</li>
+<li class="hidden-xs hidden-sm">
+<a href="/theme/">分類</a>
+</li>
+<li class="hidden-xs hidden-sm header-btn " id="hmovies">
+<a class="dropdown-toggle " data-toggle="dropdown" href="#" data-vodeos-count=2006 data-movies-count=><span>H動漫<span class="caret"></span></span>
+</a>
+</li>
+<li class="hidden-xs hidden-sm">
+<a id="meun_game" class="meun-game" href="/games" data-count=322>遊戲</a>
+</li>
+<li class="hidden-xs hidden-sm">
+<a id="meun_blog" class="meun-blog" href="/blogs" data-count=271>紳夜食堂</a>
+</li>
+<li class=" hidden-xs hidden-sm">
+<a href="/forum/">評論區</a>
+</li>
+</ul>
+
+<ul class="nav navbar-nav navbar-right d-flex align-items-center ml-auto">
+<li class="dropdown hidden-xs hidden-sm navbar-right-block m-r-10">
+<a href="/18comic-app.apk">
+<div class="menu-circle"></div>
+<i class="fab fa-android"></i>
+</a>
+</li>
+<li class="hidden-xs hidden-sm navbar-right-block m-r-10">
+<a href="/album/189088">
+<i class="fas fa-magic"></i>
+</a>
+</li>
+<li class="dropdown hidden-xs hidden-sm navbar-right-block m-r-10">
+<a data-toggle="modal" href="#login-modal" style="display: flex;align-items: center; color:#ff7a00;">
+<i class="far fa-user-circle user-block" aria-hidden="true"></i>
+<span class="user-text">會員登入/註冊</span>
+</a>
+</li>
+<li class="hidden-xs hidden-sm navbar-right-block m-r-10 pop_btn" id="lottery_list">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+</li>
+</ul>
+
+<div class="hidden-xs hidden-sm search-box pop_block" id="lottery_list_block" style="display: none;">
+<form class="form-inline" name="search" id="search_form" method="get" action="/search/photos">
+<span class="box-style">
+<select id="header_search_type" class="box-style rounded-pill">
+<option value="photos" selected>成人A漫</option>
+<option value="videos">H動漫</option>
+<option value="movies">小電影</option>
+<option value="blogs">紳夜食堂</option>
+</select>
+</span>
+<span class="box-style">
+<select class="form-control" name="main_tag" id="main_tag">
+<option value="0" selected>站內搜尋</option>
+<option value="1">作品</option>
+<option value="2">作者</option>
+<option value="3">標籤</option>
+<option value="4">登場人物</option>
+</select>
+</span>
+<input type="text" class="box-form" placeholder="可以搜車號囉 ! " name="search_query" id="search_query" autocomplete="off" value="未亡人の雪女">
+<span>
+<button type="submit" class="box-search-block">
+<i class="fa fa-search" aria-hidden="true" style="color: #ff7a00"></i>
+</button>
+</span>
+<span class="p-r-10 p-l-5 box-close modal-close">
+<i class="fas fa-times"></i>
+</span>
+</form>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="adult-main header-class-block hidden-xs hidden-sm" id="adulta-block" style="display: none;">
+<div class="container">
+<div class="row adult-block p-t-20 p-b-20">
+<div class="col-md-3">
+<div class="tag-hot-main">
+<span class="text-orange m-b-10 d-block">熱門趨勢</span>
+<div class="tag-hot tag-block">
+<a href="/search/photos?search_query=連載中" class="btn btn-sm tag-block m-2" title="連載中">連載中</a>
+<a href="/search/photos?search_query=女性支配" class="btn btn-sm tag-block m-2" title="女性支配">女性支配</a>
+<a href="/search/photos?search_query=禁漫書庫" class="btn btn-sm tag-block m-2" title="禁漫書庫">禁漫書庫</a>
+<a href="/search/photos?search_query=歹戲拖棚" class="btn btn-sm tag-block m-2" title="歹戲拖棚">歹戲拖棚</a>
+<a href="/search/photos?search_query=清凉" class="btn btn-sm tag-block m-2" title="清凉">清凉</a>
+<a href="/search/photos?search_query=Fare可爱汪" class="btn btn-sm tag-block m-2" title="Fare可爱汪">Fare可爱汪</a>
+<a href="/search/photos?search_query=進來了…！在丈夫眼前" class="btn btn-sm tag-block m-2" title="進來了…！在丈夫眼前">進來了…！在丈夫眼前</a>
+<a href="/search/photos?search_query=歐-巴-來洗澡" class="btn btn-sm tag-block m-2" title="歐-巴-來洗澡">歐-巴-來洗澡</a>
+<a href="/search/photos?search_query=公孙离" class="btn btn-sm tag-block m-2" title="公孙离">公孙离</a>
+</div>
+</div>
+</div>
+<div class="col-md-9">
+<div class="">
+<span class="text-orange m-l-10 d-block">成人A漫</span>
+<div class="adult-right-block">
+<a href="/albums?o=mv" title="總排行">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.total_ranking.jpg">
+</div>
+<span>總排行</span>
+</a>
+<a href="/albums?t=m&o=mv" title="月排行">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/global.month.menu.ranking.jpg">
+</div>
+<span>月排行</span>
+</a>
+<a href="/albums?o=mv&t=w" title="周排行">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/global.week.menu.ranking.jpg">
+</div>
+<span>周排行</span>
+</a>
+<a href="/albums/doujin?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="同人">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.doujin.jpg">
+</div>
+<span>同人</span>
+</a>
+<a href="/albums/single?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="單本">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.single.jpg">
+</div>
+<span>單本</span>
+</a>
+<a href="/albums/short?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="短篇">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.short.jpg">
+</div>
+<span>短篇</span>
+</a>
+<a href="/albums/another?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="其他漫畫">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.another.jpg">
+</div>
+<span>其他漫畫</span>
+</a>
+<a href="/albums/hanman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="韓漫">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.hanman.jpg">
+</div>
+<span>韓漫</span>
+</a>
+<a href="/albums/meiman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" title="美漫">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.meiman.jpg">
+</div>
+<span>美漫</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="adult-main header-class-block hidden-xs hidden-sm" id="hmovies-block" style="display: none;">
+<div class="container">
+<div class="row adult-block p-t-20 p-b-20">
+<div class="col-md-3">
+<div class="tag-hot-main">
+<span class="text-orange m-b-10 d-block">熱門趨勢</span>
+<div class="tag-hot tag-block">
+<a href="/search/videos?search_query=妈妈系" class="btn btn-sm tag-block" title="妈妈系">
+妈妈系
+</a>
+<a href="/search/videos?search_query=迷你系" class="btn btn-sm tag-block" title="迷你系">
+迷你系
+</a>
+<a href="/search/videos?search_query=チャイナ" class="btn btn-sm tag-block" title="チャイナ">
+チャイナ
+</a>
+<a href="/search/videos?search_query=恋爱" class="btn btn-sm tag-block" title="恋爱">
+恋爱
+</a>
+<a href="/search/videos?search_query=情侣" class="btn btn-sm tag-block" title="情侣">
+情侣
+</a>
+<a href="/search/videos?search_query=校园泳装" class="btn btn-sm tag-block" title="校园泳装">
+校园泳装
+</a>
+<a href="/search/videos?search_query=姊妹" class="btn btn-sm tag-block" title="姊妹">
+姊妹
+</a>
+<a href="/search/videos?search_query=野外" class="btn btn-sm tag-block" title="野外">
+野外
+</a>
+<a href="/search/videos?search_query=妄想" class="btn btn-sm tag-block" title="妄想">
+妄想
+</a>
+<a href="/search/videos?search_query=中出" class="btn btn-sm tag-block" title="中出">
+中出
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-9">
+<div class="">
+<span class="text-orange m-l-10 d-block">H動漫</span>
+<div class="adult-right-block">
+<a href="/videos" title="H動漫">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.H_anime.jpg">
+</div>
+<span>H動漫</span>
+</a>
+<a href="/movies" title="小電影">
+<div class="m-b-5">
+<img src="/templates/frontend/airav/img/header/menu.movie.jpg">
+</div>
+<span>小電影</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+            @media screen and (max-width: 767px) {
+                .top-nav .container {
+                    padding-right: 0 !important;
+                }
+
+                .top-menu > .pull-right > li {
+                    margin: 0 !important;
+                }
+            }
+        </style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            $(function () {
+                $("img.lazy_img").lazyload({effect: "fadeIn", threshold: 1000});
+            });
+        </script>
+</div>
+<div id="wrapper">
+
+<div class="ph-bottom switch-group visible-xs visible-sm">
+<ul>
+<li class="ph-active">
+<a href="/">
+<img src="/templates/frontend/airav/img/phicon/u745_.png?v=20210617" style="height: 27px; margin: auto;display: block;">
+<span style="color: #ff7a00" ;>首頁</span>
+</a>
+</li>
+<li class="ph-active">
+<a href="/theme/">
+<img src="/templates/frontend/airav/img/phicon/u441.png?v=20210617" style="height: 27px; margin: auto;display: block;">
+<span>分類</span>
+</a>
+</li>
+<li class="ph-active">
+<a href="/movies/" class="meun-video">
+<i class="fas fa-glasses"></i>
+<span>小電影</span>
+</a>
+</li>
+<li class="ph-active">
+<a href="/games" class="meun-game">
+<i class="fas fa-gamepad"></i>
+<span>遊戲</span>
+ </a>
+</li>
+<li class="ph-active switch" id="sns">
+<a href="/forum/">
+<i class="fas fa-comment"></i>
+<span>評論區</span>
+</a>
+</li>
+<li class="ph-active">
+<a href="/user">
+<i class="fas fa-user-circle"></i>
+<span>我的</span>
+</a>
+</li>
+</ul>
+</div>
+
+<style>
+            @media screen and (min-width: 767px) {
+                .float-right-image {
+                    position: fixed;
+                    right: 0;
+                    width: 20%;
+                    bottom: 60px;
+                    z-index: 100;
+                    opacity: 1
+                }
+
+                .float-right-image.open {
+                    display: none;
+                }
+
+                .float-right-image {
+                    display: block;
+                }
+            }
+
+            .select-type-title p {
+                color: #ababab;
+            }
+
+        </style>
+<script>
+            $(document).on('mouseenter', '.float-right-image.close', function () {
+                $('.float-right-image.open').css('display', 'block');
+                $('.float-right-image.close').css('display', 'none');
+            });
+            $(document).on('mouseleave', '.float-right-image.open', function () {
+                $('.float-right-image.open').css('display', 'none');
+                $('.float-right-image.close').css('display', 'block');
+            });
+            toastr.options = {
+                "closeButton": true,
+                "positionClass": "toast-top-center",
+            }
+
+
+        </script>
+<div class="container">
+<div class="well well-filters">
+<div class="">
+<h4>搜索結果</h4>
+</div>
+<div class="pull-left">
+<div class="hidden-xs">
+<div class="btn-group">
+<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">時間 <span class="caret"></span></button>
+<ul class="dropdown-menu">
+<li class="active"><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=a">全部</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=t">時間 今天</a>
+</li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=w">時間 這週</a>
+</li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=m">時間 本月</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">最新的 <span class="caret"></span></button>
+<ul class="dropdown-menu">
+<li class="active"><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mr">最新的</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mv">最多點閱的</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mp">最多圖片</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=tf">最多愛心</a></li>
+</ul>
+</div>
+</div>
+<div class="visible-xs">
+<div class="btn-group">
+<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">類別<span class="caret"></span></button>
+<ul class="dropdown-menu">
+<li class="active"><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">全部</a></li>
+<li>
+<a href="/search/photos/another?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">其他漫畫</a>
+</li>
+<li>
+<a href="/search/photos/doujin?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">同人</a>
+</li>
+<li>
+<a href="/search/photos/hanman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">韓漫</a>
+</li>
+<li>
+<a href="/search/photos/meiman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">美漫</a>
+</li>
+<li>
+<a href="/search/photos/short?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">短篇</a>
+</li>
+<li>
+<a href="/search/photos/single?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3">單本</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">排序<span class="caret"></span></button>
+<ul class="dropdown-menu">
+<li class="active"><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=a">全部</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=t">時間 今天</a>
+</li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=w">時間 這週</a>
+</li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;t=m">時間 本月</a>
+</li>
+<li class="active"><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mr">最新的</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mv">最多點閱的</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=mp">最多圖片</a></li>
+<li><a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3&amp;o=tf">最多愛心</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-9 col-sm-8">
+<div class="well well-sm">
+<span class="m-b-5 title-truncate">搜尋: <span class="text-white">未亡人の雪女</span></span>
+顯示 <span class="text-white">1</span> 到 <span class="text-white">1</span> 中 <span class="text-white">1</span> A漫.
+</div>
+<div class="row m-b-10 center suggest-tag">
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B大报社">未亡人の雪女 大报社</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B全彩">未亡人の雪女 全彩</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B人妻">未亡人の雪女 人妻</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B催眠">未亡人の雪女 催眠</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B怪物女孩">未亡人の雪女 怪物女孩</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B连裤袜">未亡人の雪女 连裤袜</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B过膝袜">未亡人の雪女 过膝袜</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B巨乳">未亡人の雪女 巨乳</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B吊带袜">未亡人の雪女 吊带袜</a>
+<a class="btn btn-primary btn-pill m-t-5" href="/search/photos?search_query=未亡人の雪女+%2B断面图">未亡人の雪女 断面图</a>
+</div>
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 list-col">
+<div class="well well-sm">
+<a href="/album/264883/新桥月白日语社汉化-ぷぅのぷぅぷぅぷぅ-ぷぅ崎ぷぅ奈-人付き合いが苦手な未亡人の雪女さんと呪いの指輪-中国翻訳">
+<div class="thumb-overlay">
+<img src="https://cdn-msp.18comic.org/media/albums/blank.jpg" data-original="https://cdn-msp.18comic.org/media/albums/264883.jpg?v=1625907433" title="[新桥月白日语社汉化] [ぷぅのぷぅぷぅぷぅ (ぷぅ崎ぷぅ奈)] 人付き合いが苦手な未亡人の雪女さんと呪いの指輪 [中国翻訳]" alt="[新桥月白日语社汉化] [ぷぅのぷぅぷぅぷぅ (ぷぅ崎ぷぅ奈)] 人付き合いが苦手な未亡人の雪女さんと呪いの指輪 [中国翻訳]" class="lazy_img img-responsive " />
+<div class="label-loveicon">
+<a href="#" class="" id="love_likes_264883"><i class="glyphicon glyphicon-heart"></i><span id="albim_likes_264883" class="text-white">31738</span></a>
+</div>
+<div class="label-star">
+<a data-toggle="modal" href="#login-modal">
+<i style="color: #000000" class="far fa-bookmark"></i></a>
+</div>
+<div class="category-icon">
+<div class="label-category" style="">
+同人
+</div>
+<div class="label-sub" style=" ">漢化
+</div>
+</div>
+</div>
+<span class="video-title title-truncate m-t-5">[新桥月白日语社汉化] [ぷぅのぷぅぷぅぷぅ (ぷぅ崎ぷぅ奈)] 人付き合いが苦手な未亡人の雪女さんと呪いの指輪 [中国翻訳]</span>
+</a>
+<div class="title-truncate">
+標籤: <a href="/search/photos?search_query=大報社">大報社</a>, <a href="/search/photos?search_query=全彩">全彩</a>, <a href="/search/photos?search_query=人妻">人妻</a>, <a href="/search/photos?search_query=催眠">催眠</a>, <a href="/search/photos?search_query=怪物女孩">怪物女孩</a>, <a href="/search/photos?search_query=連褲襪">連褲襪</a>, <a href="/search/photos?search_query=過膝襪">過膝襪</a>, <a href="/search/photos?search_query=巨乳">巨乳</a>, <a href="/search/photos?search_query=吊帶襪">吊帶襪</a>, <a href="/search/photos?search_query=斷面圖">斷面圖</a>, <a href="/search/photos?search_query=中文">中文</a> </div>
+<div class="video-views pull-left">
+2021-07-05
+</div>
+<div class="video-rating pull-right no-rating">
+<i class="fa fa-heart video-rating-heart no-rating"></i>
+<b>-</b>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-4 hidden-xs hidden-sm">
+<div class="list-group">
+<a href="/search/photos?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item active">
+全部
+</a>
+<a href="/search/photos/another?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+其他漫畫
+</a>
+<a href="/search/photos/doujin?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+同人
+</a>
+<a href="/search/photos/hanman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+韓漫
+</a>
+<a href="/search/photos/meiman?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+美漫
+</a>
+<a href="/search/photos/short?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+短篇
+</a>
+<a href="/search/photos/single?search_query=%E6%9C%AA%E4%BA%A1%E4%BA%BA%E3%81%AE%E9%9B%AA%E5%A5%B3" class="list-group-item">
+單本
+</a>
+</div>
+<div class="well ede39-d_a hidden-xs" style="max-height: 600px !important;" data-height="600" data-width="160" data-group="skyscraper_1">
+<script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+<ins id="878967" data-width="160" data-height="612"></ins>
+<script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':878967});</script> </div>
+</div>
+</div>
+<div class="well ede39-d_a hidden">
+<p class="ad-title">贊助</p>
+<script type="text/javascript"> var ad_idzone = "2967010", ad_width = "300", ad_height = "250" </script>
+<script type="text/javascript" src="https://a.exosrv.com/ads.js"></script>
+<noscript>
+                        <iframe src="https://syndication.exosrv.com/ads-iframe-display.php?idzone=2967010&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+                        </noscript>
+<script type="text/javascript">
+           (function () {
+               function randStr(e,t){for(var n="",r=t||"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",o=0;o<e;o++)n+=r.charAt(Math.floor(Math.random()*r.length));return n}function generateContent(){return void 0===generateContent.val&&(generateContent.val=" \ndocument.dispatchEvent("+randStr(4*Math.random()+3)+");"),generateContent.val}try{Object.defineProperty(document.currentScript,"innerHTML",{get:generateContent}),Object.defineProperty(document.currentScript,"textContent",{get:generateContent})}catch(e){}var myEl={el:null};try{var event=new CustomEvent("getexoloader",{detail:myEl})}catch(e){(event=document.createEvent("CustomEvent")).initCustomEvent("getexoloader",!1,!1,myEl)}window.document.dispatchEvent(event);var ExoLoader=myEl.el;
+               ExoLoader.addZone({"idzone":"2967010"});
+               ExoLoader.serve({"script_url":"/templates/frontend/airav/js/avs-0.4.js", "force": true});
+           })();
+       </script>
+</div>
+</div>
+<div class="bot-per visible-xs visible-sm">
+<div class="bot-per-times">
+<i class="fas fa-times"></i>
+</div>
+<div class="bot-per-context ede39-d_a" data-width="728" data-height="90" data-group="sticky1">
+<a rel="nofollow noopener" target="_blank" href="http://xratt15.thejierou.net"><img alt="" src="/static/resources/images/JGG/3kouH/XProject_15_728_90_Trevor_29.gif" style="width: 728px; height: 90px;" /></a>
+</div>
+<div class="bot-per-back">
+點我一下 , 免費去廣告
+</div>
+</div>
+<div class="footer-container">
+<div class="footer">
+<div class="container">
+<div>
+<div class="pull-left">
+<span>版權 &#169; 2008-2020</span> 禁漫天堂
+</div>
+<div class="pull-right">
+<a href="/cdn-cgi/l/email-protection#710606064049121e1c181231161c10181d5f121e1c">廣告洽詢</a>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+    
+    @media (max-width: 767px) {
+        .bot-per-times {
+            z-index: 10;
+            width: 25px;
+            height: 25px;
+            border-radius: 5px;
+            text-align: center;
+            position: fixed;
+            bottom: 70px;
+            right: 10px;
+            background: rgba(255, 255, 255, 0.5);
+        }
+
+        .bot-per-times i {
+            font-size: 25px;
+            color: #ff0000;
+        }
+
+        .bot-per-context {
+            padding: 0px !important;
+            bottom: 61px;
+            z-index: 3;
+            position: fixed;
+            width: 100%;
+        }
+
+        .bot-per-back {
+            bottom: 61px;
+            z-index: 3;
+            position: fixed;
+            height: 7.1%;
+            width: 100%;
+            background-color: #fff;
+            text-align: center;
+            line-height: 50px;
+            display: none;
+            pointer-events: none;
+        }
+    }
+
+    .menu-circle {
+        width: 7px;
+        height: 7px;
+        right: 5%;
+        background: #ff7a00;
+        border-radius: 50%;
+        position: absolute;
+    }
+
+    
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    
+    $(function () {
+
+        if (location.href.indexOf('/photo/') > 0) {
+            $('body').addClass("photo_cus_body");
+            $('#Comic_Top_Nav').addClass('hidden-xs hidden-sm');
+        }
+        {/* 偵測廣告點擊數 */
+        }
+        setInterval(function () {
+            if (document.activeElement instanceof HTMLIFrameElement) {
+                var up = new URL(document.activeElement.src);
+                var iframe_url = up.href;
+                if (iframe_url.indexOf('juicyads') > -1 || iframe_url.indexOf('exosrv') > -1) {
+                    $.get('/ajax/ad_check', function (data) {
+                        data = JSON.parse(data);
+                        if (data.status === 1) {
+                            toastr['success'](data.msg)
+                        }
+
+                    });
+                }
+            }
+            window.focus();
+        }, 300);
+        $(document).on('click', '.ede39-d_a a', function () {
+            $.get('/ajax/ad_check', function (data) {
+                data = JSON.parse(data);
+                if (data.status === 1) {
+                    toastr['success'](data.msg)
+                }
+
+            });
+        });
+
+        //bot-per
+        if (isMobile) {
+            setInterval(function () {
+                $(".bot-per-back").fadeIn(1000);
+                $(".bot-per-back").fadeOut(1000);
+            }, 8000);
+
+            var detectelement = function (url) {
+                //var date = new Date();
+                /*date.setTime(date.getTime() + (5 * 60 * 1000));
+                if (isNaN($.cookie('bot-per'))) {
+                    $.cookie('bot-per', '1', {expires: date, path: '/'});
+                } else {
+                    var num = parseInt($.cookie('bot-per'));
+                    $.cookie('bot-per', num + 1, {expires: date, path: '/'});
+                }*/
+                //$('.bot-per').attr("style", "display: none !important");
+                $('.bot-per').remove();
+                td_ga_tracker.doga_event('ad_fixed_bottom', url, 'Click', 1);
+            }
+            setInterval(function () {
+                if (document.activeElement instanceof HTMLIFrameElement) {
+                    var up = new URL(document.activeElement.src);
+                    var iframe_url = up.href;
+                    if (iframe_url.indexOf("adzone=819141") > 0 || iframe_url.indexOf("idzone=3597795") > 0) {
+                        detectelement(iframe_url);
+                        window.focus();
+                    }
+                }
+            }, 500);
+
+            $('.bot-per-times').click(function () {
+                $('.bot-per').attr("style", "display: none !important");
+            });
+            /*$(document).on('click', '.bot-per-times', function () {
+                 $('.bot-per').attr("style", "display: none !important");
+             });*/
+            $('.bot-per-context').click(function () {
+                var url = $(this).find("a").prop("href");
+                detectelement(url);
+            });
+            /*if (parseInt($.cookie("bot-per")) > '1') {
+                $('.bot-per').attr("style", "display: none !important");
+            }*/
+
+            var px = 0;
+            $(window).scroll(function () {
+                //if (parseInt($.cookie("bot-per")) < 2) {
+                if ($(window).scrollTop() > px + 10000) {
+                    px = $(window).scrollTop();
+                    $('.bot-per').attr("style", "display: block !important");
+                    $(window).resize();
+                }
+                //}
+            });
+
+            if (location.href.indexOf('/photo/') > 0) {
+                $('.bot-per-context,.bot-per-back').css('bottom', '53px');
+
+            }
+        }
+    });
+
+    $(document).ready(function () {
+        if ($('.ede39-d_a iframe').length <= 0) {
+            $('#chk_cover').prev('.m-b-10.center').css('display', 'block');
+        }
+        var syncLoginUrl = '';
+        if (syncLoginUrl !== '')
+            $('<iframe id="syncLogin" style="width:0px;height: 0px;" src="' + syncLoginUrl + '" ></iframe>').insertAfter('#wrapper');
+    });
+
+    $(window).load(function () {
+        if ($.cookie('shuntflag') == undefined) {
+            $('.lazy_img').each(function () {
+                var img_url = $(this).attr('src');
+                if (!CheckImgExists(img_url) && $.cookie('cover') == '1' && $.cookie('shuntflag') != '1') {
+                    $('#shunt-modal').modal('show');
+                    $.cookie('shuntflag', '1', {path: '/'});
+                }
+            });
+        }
+    });
+
+    function CheckImgExists(imgurl) {
+        var ImgObj = new Image();
+        ImgObj.src = imgurl;
+        if (ImgObj.fileSize > 0 || (ImgObj.width > 0 && ImgObj.height > 0)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    
+</script>
+
+
+<script src="/templates/frontend/airav/js/bootstrap.min.js"></script>
+<script>
+    
+
+    $("img.lazyad").lazyload({
+        effect: 'fadeIn'
+    });
+
+    $("img.lazy").lazyload({
+        effect: 'fadeIn'
+    });
+
+    if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+        var msViewportStyle = document.createElement('style')
+        msViewportStyle.appendChild(
+            document.createTextNode(
+                '@-ms-viewport{width:auto!important}'
+            )
+        )
+        document.querySelector('head').appendChild(msViewportStyle)
+    }
+
+    $('[data-toggle="tooltip"]').tooltip();
+
+    
+</script>
+</body>
+</html>
