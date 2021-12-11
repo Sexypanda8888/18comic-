@@ -1,5 +1,7 @@
 import requests
 import threading
+from lxml import etree
+import random
 import re
 import os
 import time
@@ -9,13 +11,18 @@ import math
 import hashlib
 from PIL import Image
 from pic_ops import image_join
+headers={
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43"
+}
+s = requests.session()
+s.keep_alive = False
+
 class MyThread(threading.Thread):
     def __init__(self,func,args=()):
         super(MyThread,self).__init__()
         self.func = func
         self.args = args
 
-  
     def run(self):
         self.result = self.func(*self.args)
     
@@ -29,17 +36,21 @@ class MyThread(threading.Thread):
 def save_img(nurl,output):
     #count需要使用列表，因为是弱复制
     try:
-        r=requests.get(nurl,timeout=10)
+        r=requests.get(nurl,headers=headers)
         content=r.content
     except:
         try:
-            r=requests.get(nurl,timeout=10)
+            r=requests.get(nurl,headers=headers)
             content=r.content
         except:
             #这里要给错误图
-            with open("烂掉的图",'rb') as f:
-                content=f.read()
-                return 0
+            print(output+"访问失败，正在重新访问...")
+            time.sleep(random.uniform(5,10))
+            save_img(nurl,output)
+            return 1
+            # with open("烂掉的图",'rb') as f:
+            #     content=f.read()
+            #     return 0
     
     with open(output,'wb') as f:
         f.write(content)
@@ -56,7 +67,7 @@ def get_benzi_list(name,fileaddress):
     """
     url="https://18comic.org/search/photos?search_query="+name
     #url2="https://18comic.org/search/photos?search_query=触电"
-    r=requests.get(url)
+    r=requests.get(url,headers=headers)
     #如果直接请求失败了，就要
     if r.status_code!=200:
         raise Exception("请求失败，可能是因为网络问题或者网站改版所导致")
@@ -65,6 +76,10 @@ def get_benzi_list(name,fileaddress):
         temp=re.findall(link_pattern,r.text)  #第一次使用findall，可以直接返回一个（）内的列表
         #如果没有检索结果，就返回一个空表
         #如果有检索结果，就创建缩略图并且返回链接和图片url
+
+# //*[@id="wrapper"]/div[2]/div[2]/div[1]/div[3]/div[1]/div/div[1]/a/img
+# //*[@id="wrapper"]/div[2]/div[2]/div[1]/div[3]/div[2]/div/div[1]/a/img
+# //*[@id="adulta-block"]/div/div/div[2]/div/div/a[1]/div/img
         links=[]
         img_nurl=[]
         if len(temp)==0:
@@ -73,14 +88,21 @@ def get_benzi_list(name,fileaddress):
             if i >=3:
                 break
             links.append("https://18comic.org"+temp[i])
-        img_pattern='data-original="(.*?)"'
-        num=len(temp)
-        temp=re.findall(img_pattern,r.text)
+        #这里是获取所有的封面图片
+        tree=etree.HTML(r.text)
+        with open("1.txt",'w',encoding='utf-8') as f:
+            f.write(r.text)
+        img_nurl= tree.xpath('//div[@class="row m-0"]//img/@data-original')
+        # img_pattern='data-original="(.*?)"'
 
-        for i in range(num):
-            if i >=3:
-                break
-            img_nurl.append(temp[i])
+        # num=len(temp)
+        # temp=re.findall(img_pattern,r.text)
+
+        # for i in range(num):
+        #     if i >=3:
+        #         break
+        #     img_nurl.append(temp[i])
+        img_nurl=img_nurl[0:3]  #选取前三个
 
         if not os.path.exists('./'+fileaddress):
             os.makedirs(fileaddress)
@@ -107,7 +129,7 @@ def show_episode(url):
     该函数输入选择章节页面的url,输出所有章节形成的列表
     """
     pattern='<a href="(.*?)">\n<li class=".*">'
-    r=requests.get(url)
+    r=requests.get(url,headers=headers)
     episode_url=[]
     try:
         temp=re.findall(pattern,r.text)
@@ -132,7 +154,7 @@ def save_one_episode(url,str_num,fileaddress):
     #<img src="https://cdn-msp.18comic.org/media/albums/blank.jpg" data-original="https://cdn-msp.18comic.org/media/photos/255011/00050.jpg" id="album_photo_" id="album_photo_00050.jpg
     if not os.path.exists(episodeadd):
         os.makedirs(episodeadd)
-    r=requests.get(url)
+    r=requests.get(url,headers=headers)
     pattern='scramble_id = (.*?);\n.*?\n.*?var aid = (.*?);'
     temp=re.search(pattern,r.text)
     scramble_id=temp.group(1)
@@ -145,6 +167,7 @@ def save_one_episode(url,str_num,fileaddress):
         img_url.append(fileaddress+"/"+str_num+"/"+temp[i][1])
         t.append(MyThread(func=save_img,args=[temp[i][0],img_url[i]]))
     for i in t:
+        time.sleep(random.uniform(0.2,2))
         i.start()
     for i in t:
         i.join()
@@ -167,9 +190,7 @@ def get_content(episode_url:list,st:int,ed:int,fileaddress:str):
     for i in range(st-1,ed):
         t.append(MyThread(func=save_one_episode,args=[episode_url[i],str(i),fileaddress]))
     for i in t:
-        time.sleep(2)
         i.start()
-    for i in t:
         i.join()
     img_data=[]
     for i in t:
@@ -243,8 +264,24 @@ def get_num(aid,img_url):
 
 
 class Search_benzi:
+    """
+    重新捋一遍思路：
+    1.通过本子名来查找
+    ----输入名字获取图片来进行选择，并且找到对应的链接
+    ----选择图片后点进链接
+    ----查找目前有几集
+        ----如果有，询问需要几集
+        ----如果单本，直接下载
+    
+    ----下载步骤：
+        ----通过分析html找到所有的图片url
+        ----解密
+        ----打包
+    """
     def __init__(self):
         self.name=''  #本子名称
+        self.content_urls=[]  #存放有漫画页面的url
+        self.cartoon_url=""  #已知漫画url进行下载的
         self.fileaddress=str(int(time.time()))
         self.has_reached_episodelist=False
         self.has_complited=False
